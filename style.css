@@ -1,0 +1,220 @@
+.box-1 {
+  margin-left: 150px;
+  width: 1250px;
+  height: 75px;
+  background: #1a1c46 0% 0% no-repeat padding-box;
+  box-shadow: 0px 19px 55px #00000014;
+  border-radius: 62px;
+  display: flex;
+}
+.image-1 {
+  margin-top: 12px;
+  margin-left: 25px;
+  height: 47px;
+}
+.main-container .item {
+  color: #ffffff;
+  letter-spacing: 1px;
+  margin-left: 249px;
+  padding: 2px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: 135px;
+  font-size: large;
+}
+.The {
+  color: #fff;
+  text-align: left;
+  font: normal normal bold 80px/98px DM Sans;
+  letter-spacing: -3.44px;
+  margin-left: 147px;
+  opacity: 1;
+}
+.Template-1 {
+  color: blue;
+}
+.your {
+  color: white;
+}
+.needed {
+  color: white;
+  text-align: left;
+  font: normal normal bold 80px/98px DM Sans;
+  letter-spacing: -3.44px;
+  opacity: 1;
+  margin-left: 155px;
+  position: absolute;
+  top: 235.3px;
+  left: 0px;
+}
+.mini-text {
+  color: rgb(134, 131, 131);
+  position: absolute;
+  top: 330px;
+  margin-left: 147px;
+  font-size: small;
+}
+.box-2 {
+  background: #356dff 0% 0% no-repeat padding-box;
+  border-radius: 43px 43px 43px 12px;
+  opacity: 1;
+  width: 250px;
+  height: 70px;
+  margin-left: 50px;
+  position: absolute;
+  top: 450px;
+  margin-left: 147px;
+}
+.text-in-box-2 {
+  color: white;
+  position: absolute;
+  text-align: left;
+  font: normal normal medium 20px/27px DM Sans;
+  letter-spacing: 0px;
+  opacity: 1;
+  margin-left: 230px;
+  top: 475.6px;
+  font-size: large;
+}
+.big-box {
+  background: #1a1c46 0% 0% no-repeat padding-box;
+  border-radius: 40px;
+  opacity: 1;
+  position: absolute;
+  top: 650px;
+  margin-left: 145px;
+  width: 1000px;
+  height: 615px;
+  
+}
+.text-in-big-box {
+  color: #fff;
+  position: absolute;
+  font: normal normal bold 64px/93px DM Sans;
+  letter-spacing: -2.75px;
+  opacity: 1;
+  bottom: 185px;
+  margin-left: 500px;
+}
+.Template-2{
+  color: #356DFF;
+}
+
+.round-1{
+  position: absolute;
+  width: 190px;
+height: 190px;
+background: #FFFFFF12 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-left: 209px;
+top: 850px;
+border-radius: 100px;
+}
+.round-2{
+  position: absolute;
+  width: 190px;
+height: 190px;
+background: #FFFFFF12 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-left: 200px;
+top: 850px;
+border-radius: 100px;
+margin-left: 540px;
+}
+.round-3{
+  position: absolute;
+  width: 190px;
+height: 190px;
+background: #FFFFFF12 0% 0% no-repeat padding-box;
+opacity: 1;
+margin-left: 200px;
+top: 850px;
+border-radius: 100px;
+margin-left: 870px;
+}
+.image-2{
+  position: absolute;
+  margin-left: 210px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  background: transparent url('img/Saly-27.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+top: 860px;
+width: 212px;
+height: 212px;
+}
+.image-3{
+  position: absolute;
+  margin-left: 525px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  background: transparent url('img/Saly-27.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+top: 790px;
+width: 220px;
+height: 220px;
+}
+.image-4{
+  position: absolute;
+  margin-left: 858px;
+  transform: matrix(1, 0, 0, 1, 0, 0);
+  background: transparent url('img/Saly-27.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+top: 805px;
+width: 240px;
+height: 240px;
+}
+.image-2-name{
+  position: absolute;
+  font: normal normal bold 24px/35px DM Sans;
+letter-spacing: -0.72px;
+color: #FFFFFF;
+opacity: 1;
+margin-left: 230px;
+top: 1060px;
+}
+.image-2-text{
+  position: absolute;
+  font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+margin-left: 200px;
+top: 1135px;
+}
+.image-3-name{
+  position: absolute;
+  font: normal normal bold 24px/35px DM Sans;
+letter-spacing: -0.72px;
+color: #FFFFFF;
+opacity: 1;
+margin-left: 590px;
+top: 1060px;
+
+}
+.image-3-text{
+  position: absolute;
+  font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+margin-left: 530px;
+top: 1135px;
+}
+.image-4-name{
+  position: absolute;
+  font: normal normal bold 24px/35px DM Sans;
+letter-spacing: -0.72px;
+color: #FFFFFF;
+opacity: 1;
+margin-left: 850px;
+top: 1060px;
+}
+.image-4-text{
+  position: absolute;
+  font: normal normal normal 16px/25px DM Sans;
+letter-spacing: -0.06px;
+color: #FFFFFF;
+opacity: 0.6;
+margin-left: 850px;
+top: 1135px;
+}
